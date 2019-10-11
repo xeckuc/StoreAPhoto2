@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StoreAPhoto2</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="image_from_camera">image from camera</string>
+    <string name="toast_action_cancelled">Action Cancelled</string>
+    <string name="toast_action_photo_saved">Photo saved to storage</string>
+</resources>
